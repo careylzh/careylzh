@@ -7,7 +7,7 @@ There are also hardware hobby projects I do outside of work.
    
 - 🛠️ Currently working on: TODO backlog in the current repos
 - 🌱 Currently learning: how to develop and deploy a stack to production fast 
-- 👯 Looking to collaborate on: hackathons! Any hackathon. Participated in one with strangers for the first time in June 2021.
+- 👯 Looking to collaborate on: hackathons! Any hackathon. I enjoy working with strangers to see if something good can work!
 - 🤔 Looking for help with: optimising my learning
 -  ⚡  Recently Learned: You can squash commits in this hidden README.md
    
