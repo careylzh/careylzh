@@ -1,7 +1,7 @@
 ### <WIP> 
 Heya 👋 this is Carey, an aspiring software engineer based in Singapore. I've come to realise that posting my github stats was cool, but not really helpful to aspiring software engineers.
 
-Most of my repos are illustrations of a particular stack. Do note that stacks evolve, some become deprecated. I've tried my best to maintain the code bases for relevancy. Feel free to comment on any of the projects if you see something amiss/ambiguous, or reach out to me through email to provide feedback.
+Most of my repos are illustrations of a particular stack. Do note that stacks evolve - some portions of a stack may become deprecated. I've tried my best to maintain the code bases for relevancy. Feel free to comment on any of the projects if you see something amiss/ambiguous, or reach out to me through email to provide feedback.
 
 - 🛠️ Currently working on: TODO backlog in the current repos
 - 🌱 Currently learning: how to develop and deploy a stack to production fast 
