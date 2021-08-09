@@ -1,19 +1,18 @@
-### <WIP> 
-Heya 👋 this is Carey, an aspiring software engineer based in Singapore. I've come to realise that posting my github stats was cool, but not really helpful to aspiring software engineers.
+### Heya 👋 
+This is Carey, an aspiring software engineer based in Singapore. I want to make my github an accessible platform sample projects. Posting my github stats was cool, but not really helpful to aspiring software engineers.
 
 Most of my repos are illustrations of a particular stack. Do note that stacks evolve - some portions of a stack may become deprecated. I've tried my best to maintain the code bases for relevancy. If you see something amiss/ambiguous, feel free to comment on any of the projects, or reach out to me through email.
 
 There are also hardware hobby projects I do outside of work. 
-   
-- 🛠️ Currently working on: TODO backlog in the current repos
-- 🌱 Currently learning: how to develop and deploy a stack to production fast 
+
+- 🛠️ Currently working on: deploying a node.js express(and TypeORM) server to a Digital Ocean droplet, connected to a Postgresql managed database 😫
+- 🌱 Currently learning about: test writing(stubs, fakeData), API/Schema Design, BE optimisation(indexing, caching)
 - 👯 Looking to collaborate on: hackathons! Any hackathon. I enjoy working with strangers to see if something good can work!
-- 🤔 Looking for help with: optimising my learning
--  ⚡  Recently Learned: You can squash commits in this hidden README.md
-   
-<!--
+- 🤔 Looking for help with: optimising my technical and non-technical learning in SWE
+- 📖 Recently Learned: You can squash commits in this hidden README.md
+- 🎵: ACDC, Of Monsters and Men, Vulfpeck
 
-
+   <!--
 - �🛠️ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
