@@ -8,6 +8,7 @@ Most of my repos are illustrations of a particular stack. Do note that stacks ev
 There are also hardware hobby projects I do outside of work. 
 
 Also, here are some resources I find useful:
+
 https://www.theodinproject.com/paths
 https://luyangkenneth.github.io/evolution-of-resumes/
 https://www.cscareers.dev/process-tracking/2022-winter-intern
