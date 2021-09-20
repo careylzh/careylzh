@@ -7,14 +7,14 @@ Most of my repos are illustrations of a particular stack. Do note that stacks ev
 
 There are also hardware hobby projects I do outside of work. 
 
-Also, here are some resources I find useful:
+Also, here are some resources I find useful: <br />
+https://www.theodinproject.com/paths <br />
+https://luyangkenneth.github.io/evolution-of-resumes/ <br />
+https://www.cscareers.dev/process-tracking/2022-winter-intern <br />
+https://www.comp.nus.edu.sg/~vwo/ <br />
+https://www.levels.fyi/ <br />
+https://advaypal.com/writes/negotiation/ 
 
-https://www.theodinproject.com/paths
-https://luyangkenneth.github.io/evolution-of-resumes/
-https://www.cscareers.dev/process-tracking/2022-winter-intern
-https://www.comp.nus.edu.sg/~vwo/
-https://www.levels.fyi/
-https://advaypal.com/writes/negotiation/
 
 - 🛠️ Currently working on: ES6 Syntax, Ruby on Rails
 - 🌱 Currently learning about: test writing(stubs, fakeData), API/Schema Design, BE optimisation(indexing, caching)
