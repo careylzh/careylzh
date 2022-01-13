@@ -1,5 +1,5 @@
 ### Heya 👋 
-This is Carey, an aspiring software engineer based in Singapore. I used to do lots of hardware projects as a hobby, then moved on to exploring web technologies and understand the idioms that make the library or framework unique. 
+This is Carey, an aspiring software engineer based in Singapore. I used to do lots of hardware projects as a hobby, then moved on to exploring web technologies and understanding the idioms that make the library or framework unique. 
 
 If you see something amiss/ambiguous in my projects, feel free to comment or reach out to me through email.
 
