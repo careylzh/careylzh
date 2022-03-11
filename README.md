@@ -12,7 +12,7 @@ https://www.levels.fyi/ <br />
 https://advaypal.com/writes/negotiation/ 
 
 
-- 🛠️ Currently working on: Angular vs React (eg. Services vs Structural Sharing Queries) 
+- 🛠️ Currently working on: using [prisma](https://www.prisma.io/docs/concepts) with digital ocean
 - 🌱 Currently learning about: test writing(stubs, fakeData), API/Schema Design, BE optimisation(indexing, caching)
 - 👯 Looking to collaborate on: hackathons! Any hackathon. I enjoy working with strangers to see if something good can work!
 - 🤔 Looking for help with: optimising both technical and non-technical learning in SWE
