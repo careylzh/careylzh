@@ -2,7 +2,7 @@
 
 💼: microservices in Java (Spring) <br />
 📖 Favourite `git`: squashing commits <br />
-🎵: ACDC, Of Monsters and Men, Vulfpeck <br />
+🎵: Two Door Cinema Club, Lo-fi pop covers, ACDC, Of Monsters and Men, Vulfpeck,  <br />
 
 recent: eduTech learning management system(LMS) in [prisma](https://www.prisma.io/docs/concepts) with digital ocean for [JustAce](https://github.com/JustAceApp)
 
