@@ -1,8 +1,8 @@
 ### Heya 👋 
 
-- 💼: microservices in Java (Spring) 
-- 📖 Favourite `git`: squashing commits 
-- 🎵: ACDC, Of Monsters and Men, Vulfpeck
+💼: microservices in Java (Spring) <br />
+📖 Favourite `git`: squashing commits <br />
+🎵: ACDC, Of Monsters and Men, Vulfpeck <br />
 
 recent: eduTech learning management system(LMS) in [prisma](https://www.prisma.io/docs/concepts) with digital ocean for [JustAce](https://github.com/JustAceApp)
 
