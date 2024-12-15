@@ -1,7 +1,7 @@
 ### Heya 👋 
 
-💼 microservices in Java (Spring) <br />
-❤️ interactive rebasing, squashing commits <br />
+💼 microservices in Java (Spring), TypeScript and databases <br />
+❤️ interactive rebasing, squashing commits, cross-device interactions <br />
 🎵 Two Door Cinema Club, Lo-fi pop covers, ACDC, Of Monsters and Men, Vulfpeck,  <br />
 
 recent: eduTech learning management system(LMS) in [prisma](https://www.prisma.io/docs/concepts) with digital ocean for [JustAce](https://github.com/JustAceApp)
