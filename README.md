@@ -1,10 +1,10 @@
-### Heya 👋 
+### Heya 👋
 
 💼 microservices in Java (Spring), TypeScript and databases <br />
 ❤️ interactive rebasing, squashing commits, cross-device interactions <br />
 🎵 Two Door Cinema Club, Lo-fi pop covers, ACDC, Of Monsters and Men, Vulfpeck,  <br />
 
-recent: eduTech learning management system(LMS) in [prisma](https://www.prisma.io/docs/concepts) with digital ocean for [JustAce](https://github.com/JustAceApp)
+recent: building an API to facilitate cross-platform(Android, IOS, linux, windows) cross-device interactions 
 
 Here are some resources I find useful: <br />
 https://www.theodinproject.com/paths <br />
