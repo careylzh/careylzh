@@ -1,10 +1,9 @@
-### Heya 👋
+### Heya 👋 I am now a PHD student at NUS DID researching spatial computing 
 
 💼 microservices in Java (Spring), TypeScript and databases <br />
-❤️ interactive rebasing, squashing commits, cross-device interactions <br />
-🎵 Two Door Cinema Club, Lo-fi pop covers, ACDC, Of Monsters and Men, Vulfpeck,  <br />
-
-recent: building an API to facilitate cross-platform(Android, IOS, linux, windows) cross-device interactions 
+❤️ interactive rebasing, squashing commits, commit hygiene, spatial computing, cross-device interactions <br />
+🎵 Two Door Cinema Club, Lo-fi pop covers, ACDC, Of Monsters and Men, Vulfpeck, Nirvana  <br />
+Fav movies: Goodwill Hunting, Avatar: Way of Fire and Ash 
 
 Here are some resources I find useful: <br />
 https://www.theodinproject.com/paths <br />
