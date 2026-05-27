@@ -1,2 +1,2 @@
-💼 Spatial Computing and HCI research 
+💼 Spatial Computing and HCI research <br />
 ❤️ BLE hacking 
